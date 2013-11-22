@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://LuckyCloud.github.io/sitemap.xml 
