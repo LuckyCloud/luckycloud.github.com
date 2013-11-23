@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 博客在这里安家了，希望能够长久的坚持下去，记录自己的成长之路。 | LuckyCloud's Blog]]></title>
-  <link href="http://LuckyCloud.github.io/blog/categories/bo-ke-zai-zhe-li-an-jia-liao-,xi-wang-neng-gou-chang-jiu-de-jian-chi-xia-qu-,ji-lu-zi-ji-de-cheng-chang-zhi-lu-./atom.xml" rel="self"/>
+  <title><![CDATA[Category: Test | LuckyCloud's Blog]]></title>
+  <link href="http://LuckyCloud.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://LuckyCloud.github.io/"/>
-  <updated>2013-11-23T14:02:40+08:00</updated>
+  <updated>2013-11-23T14:04:49+08:00</updated>
   <id>http://LuckyCloud.github.io/</id>
   <author>
     <name><![CDATA[luckycloud]]></name>
