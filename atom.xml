@@ -4,7 +4,7 @@
   <title><![CDATA[LuckyCloud's Blog]]></title>
   <link href="http://LuckyCloud.github.io/atom.xml" rel="self"/>
   <link href="http://LuckyCloud.github.io/"/>
-  <updated>2013-11-30T17:13:58+08:00</updated>
+  <updated>2013-11-30T17:15:09+08:00</updated>
   <id>http://LuckyCloud.github.io/</id>
   <author>
     <name><![CDATA[luckycloud]]></name>
@@ -36,7 +36,8 @@
     <link href="http://LuckyCloud.github.io/blog/2013/11/23/hello-world/"/>
     <updated>2013-11-23T14:01:14+08:00</updated>
     <id>http://LuckyCloud.github.io/blog/2013/11/23/hello-world</id>
-    <content type="html"><![CDATA[<p>   在这里安家，希望能坚持下来，记录成长的点滴。</p>
+    <content type="html"><![CDATA[<p>   在这里安家，希望能坚持下来，记录成长的点滴。
+   test</p>
 ]]></content>
   </entry>
   
