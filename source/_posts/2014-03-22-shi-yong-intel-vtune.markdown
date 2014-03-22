@@ -47,8 +47,8 @@ categories:
 
 	  后面会对此文继续进行扩充。 
    两篇链接：
-       ［intel optimization manual］(http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-optimization-manual.pdf)
-	    [using intel amplifier on xeon e5 family] (http://software.intel.com/sites/default/files/article/380498/using-intel-vtune-amplifier-xe-on-xeon-e5-family-1.0.pdf)
+        [intel optimization manual](http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-optimization-manual.pdf)
+	    [using intel amplifier on xeon e5 family](http://software.intel.com/sites/default/files/article/380498/using-intel-vtune-amplifier-xe-on-xeon-e5-family-1.0.pdf)
 
 
 
