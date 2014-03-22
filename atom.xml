@@ -4,7 +4,7 @@
   <title><![CDATA[LuckyCloud's Blog]]></title>
   <link href="http://LuckyCloud.github.io/atom.xml" rel="self"/>
   <link href="http://LuckyCloud.github.io/"/>
-  <updated>2014-03-22T22:49:07+08:00</updated>
+  <updated>2014-03-22T23:04:37+08:00</updated>
   <id>http://LuckyCloud.github.io/</id>
   <author>
     <name><![CDATA[luckycloud]]></name>
@@ -64,11 +64,8 @@ Automate regression tests and collect data remotely using the powerful command l
   后面会对此文继续进行扩充。 
 </code></pre>
 
-<p>   两篇链接：</p>
-
-<pre><code>   ［intel optimization manual］(http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-optimization-manual.pdf)
-    [using intel amplifier on xeon e5 family] (http://software.intel.com/sites/default/files/article/380498/using-intel-vtune-amplifier-xe-on-xeon-e5-family-1.0.pdf)
-</code></pre>
+<p>   <a href="http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-optimization-manual.pdf">intel optimization manual</a>
+   <a href="http://software.intel.com/sites/default/files/article/380498/using-intel-vtune-amplifier-xe-on-xeon-e5-family-1.0.pdf">using intel amplifier on xeon e5 family</a></p>
 ]]></content>
   </entry>
   
